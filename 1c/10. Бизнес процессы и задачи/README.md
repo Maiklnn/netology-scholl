@@ -1,16 +1,16 @@
 # 10 Бизнес-процессы и задачи
 
 ## Урок 1 Процессы и схемы процессов
-- видео уроки - 
+- видео уроки - https://drive.google.com/drive/folders/1dkpTadboP_z7qGxFQlv1tOE3iPgn2EJU?usp=drive_link
 - задание 
 - Задача 1 
 
 ## Урок 2 Процессы и схемы процессов
-- видео уроки - 
+- видео уроки - https://drive.google.com/drive/folders/1dkpTadboP_z7qGxFQlv1tOE3iPgn2EJU?usp=drive_link
 - задание 
 - Задача 1
 
 ## Урок 3 Процессы и схемы процессов
-- видео уроки - 
+- видео уроки - https://drive.google.com/drive/folders/1dkpTadboP_z7qGxFQlv1tOE3iPgn2EJU?usp=drive_link
 - задание 
 - Задача 1
