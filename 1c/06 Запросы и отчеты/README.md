@@ -26,3 +26,7 @@
 - задание https://github.com/netology-code/1c-homeworks/blob/branch-29/homework-6-3.md
 - Задача 1 "Решение задач 4.1 - 4.8 самоучителя запросов" <span style="color: green;">на проверке</span>
  
+## Урок 5 Объединения и запросы
+- видео уроки 
+- задание 
+

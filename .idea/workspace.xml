@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="af456468-c7d9-44c3-973e-7d5856dfd18e" name="Default Changelist" comment="" />
+    <list default="true" id="af456468-c7d9-44c3-973e-7d5856dfd18e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1c/06 Запросы и отчеты/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/1c/06 Запросы и отчеты/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +30,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="3BBWrZTE31ciHgp8tKA45tcPC4a" />
   <component name="ProjectViewState">
@@ -23,20 +47,20 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sys-admin/11-01-hw-bd" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sys-admin/11-03-hw-elk/img" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Проекты\netology\1c\06 Заросы" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Проекты\netology\sys-admin\11-03-hw-elk\img" />
+      <recent name="D:\Проекты\netology" />
       <recent name="D:\Проекты\netology\sys-admin\11-01-hw-bd" />
       <recent name="D:\Проекты\netology\1c\10. Бизнес процессы и задачи" />
       <recent name="D:\Проекты\netology\1c\06 Заросы\4. Объединения и запросы" />
-      <recent name="D:\Проекты\netology\1c\06 Заросы\2 Группировки и итоги" />
-      <recent name="D:\Проекты\netology\1c\06 Заросы\1 Основы запросов" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Проекты\netology\1c\06 Заросы" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,17 +71,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1773963142188</updated>
-      <workItem from="1773963143239" duration="9281000" />
+      <workItem from="1773963143239" duration="12672000" />
+      <workItem from="1774135136549" duration="13694000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="2472" y="178" key="#Deployment" timestamp="1774413245174">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="178" key="#Deployment/1920.0.1920.1040/0.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1774413245174" />
+    <state x="2456" y="165" key="#SSH_Configurations" timestamp="1774413244218">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2456" y="165" key="#SSH_Configurations/1920.0.1920.1040/0.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1774413244218" />
     <state x="737" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1773963895679">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="737" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1773963895679" />
+    <state x="769" y="387" key="webDeployment.PermissionsDialog" timestamp="1774427217973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="387" key="webDeployment.PermissionsDialog/1920.0.1920.1040/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1774427217973" />
   </component>
 </project>
